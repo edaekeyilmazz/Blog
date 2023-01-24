@@ -1,0 +1,36 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model List<Post>
+@foreach (Post item in Model)
+{
+   <div class="row">
+    <div class="col-sm-12 col-md-12">
+        <div class="single-blog single-column">
+            <div class="post-thumb">
+                <a href="blogdetails.html"><img src="images/blog/7.jpg" class="img-responsive" alt=""></a>
+                <div class="post-overlay">
+                    <span class="uppercase"><a href="#">14 <br><small>Feb</small></a></span>
+                </div>
+            </div>
+            <div class="post-content overflow">
+                <h2 class="post-title bold"><a href="blogdetails.html">Advanced business cards design</a></h2>
+                <h3 class="post-author"><a href="#">Gönderen @item.Author.Name</a></h3>
+                <p>@item.Summary Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber [...]</p>
+                <a href="#" class="read-more">Devamı oku</a>
+                <div class="post-bottom overflow">
+                    <ul class="nav navbar-nav post-nav">
+                        <li><a href="#"><i class="fa fa-tag"></i>@item.Category.CategoryName</a></li>
+                        
+                        <li><a href="#"><i class="fa fa-comments"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    
+</div> 
+}
+

@@ -1,0 +1,98 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects2\BlogSitesi\BlogSitesi\bin\BlogSitesi.dll.config
+c:\users\ogrenci\documents\visual studio 2013\Projects2\BlogSitesi\BlogSitesi\bin\BlogSitesi.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects2\BlogSitesi\BlogSitesi\bin\BlogSitesi.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects2\BlogSitesi\BlogSitesi\bin\Antlr3.Runtime.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects2\BlogSitesi\BlogSitesi\bin\EntityFramework.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects2\BlogSitesi\BlogSitesi\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects2\BlogSitesi\BlogSitesi\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects2\BlogSitesi\BlogSitesi\bin\Newtonsoft.Json.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects2\BlogSitesi\BlogSitesi\bin\System.Net.Http.Formatting.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects2\BlogSitesi\BlogSitesi\bin\System.Web.Http.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects2\BlogSitesi\BlogSitesi\bin\System.Web.Http.WebHost.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects2\BlogSitesi\BlogSitesi\bin\System.Web.Mvc.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects2\BlogSitesi\BlogSitesi\bin\System.Web.Optimization.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects2\BlogSitesi\BlogSitesi\bin\System.Web.Providers.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects2\BlogSitesi\BlogSitesi\bin\System.Web.Razor.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects2\BlogSitesi\BlogSitesi\bin\System.Web.WebPages.Deployment.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects2\BlogSitesi\BlogSitesi\bin\System.Web.WebPages.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects2\BlogSitesi\BlogSitesi\bin\System.Web.WebPages.Razor.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects2\BlogSitesi\BlogSitesi\bin\WebGrease.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects2\BlogSitesi\BlogSitesi\bin\EntityFramework.xml
+c:\users\ogrenci\documents\visual studio 2013\Projects2\BlogSitesi\BlogSitesi\bin\Newtonsoft.Json.xml
+c:\users\ogrenci\documents\visual studio 2013\Projects2\BlogSitesi\BlogSitesi\bin\System.Net.Http.Formatting.xml
+c:\users\ogrenci\documents\visual studio 2013\Projects2\BlogSitesi\BlogSitesi\bin\System.Web.Http.xml
+c:\users\ogrenci\documents\visual studio 2013\Projects2\BlogSitesi\BlogSitesi\bin\System.Web.Http.WebHost.xml
+c:\users\ogrenci\documents\visual studio 2013\Projects2\BlogSitesi\BlogSitesi\bin\System.Web.Mvc.xml
+c:\users\ogrenci\documents\visual studio 2013\Projects2\BlogSitesi\BlogSitesi\bin\System.Web.Razor.xml
+c:\users\ogrenci\documents\visual studio 2013\Projects2\BlogSitesi\BlogSitesi\bin\System.Web.WebPages.xml
+c:\users\ogrenci\documents\visual studio 2013\Projects2\BlogSitesi\BlogSitesi\bin\System.Web.WebPages.Deployment.xml
+c:\users\ogrenci\documents\visual studio 2013\Projects2\BlogSitesi\BlogSitesi\bin\System.Web.WebPages.Razor.xml
+c:\users\ogrenci\documents\visual studio 2013\Projects2\BlogSitesi\BlogSitesi\obj\Debug\BlogSitesi.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects2\BlogSitesi\BlogSitesi\obj\Debug\BlogSitesi.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects2\BlogSitesi\BlogSitesi\obj\Debug\BlogSitesi.pdb
+\\psf\Home\Desktop\Ozan USB\BlogSitesi\BlogSitesi\bin\BlogSitesi.dll.config
+\\psf\Home\Desktop\Ozan USB\BlogSitesi\BlogSitesi\bin\BlogSitesi.dll
+\\psf\Home\Desktop\Ozan USB\BlogSitesi\BlogSitesi\bin\BlogSitesi.pdb
+\\psf\Home\Desktop\Ozan USB\BlogSitesi\BlogSitesi\bin\Antlr3.Runtime.dll
+\\psf\Home\Desktop\Ozan USB\BlogSitesi\BlogSitesi\bin\EntityFramework.dll
+\\psf\Home\Desktop\Ozan USB\BlogSitesi\BlogSitesi\bin\Microsoft.Web.Infrastructure.dll
+\\psf\Home\Desktop\Ozan USB\BlogSitesi\BlogSitesi\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+\\psf\Home\Desktop\Ozan USB\BlogSitesi\BlogSitesi\bin\Newtonsoft.Json.dll
+\\psf\Home\Desktop\Ozan USB\BlogSitesi\BlogSitesi\bin\System.Net.Http.Formatting.dll
+\\psf\Home\Desktop\Ozan USB\BlogSitesi\BlogSitesi\bin\System.Web.Http.dll
+\\psf\Home\Desktop\Ozan USB\BlogSitesi\BlogSitesi\bin\System.Web.Http.WebHost.dll
+\\psf\Home\Desktop\Ozan USB\BlogSitesi\BlogSitesi\bin\System.Web.Mvc.dll
+\\psf\Home\Desktop\Ozan USB\BlogSitesi\BlogSitesi\bin\System.Web.Optimization.dll
+\\psf\Home\Desktop\Ozan USB\BlogSitesi\BlogSitesi\bin\System.Web.Providers.dll
+\\psf\Home\Desktop\Ozan USB\BlogSitesi\BlogSitesi\bin\System.Web.Razor.dll
+\\psf\Home\Desktop\Ozan USB\BlogSitesi\BlogSitesi\bin\System.Web.WebPages.Deployment.dll
+\\psf\Home\Desktop\Ozan USB\BlogSitesi\BlogSitesi\bin\System.Web.WebPages.dll
+\\psf\Home\Desktop\Ozan USB\BlogSitesi\BlogSitesi\bin\System.Web.WebPages.Razor.dll
+\\psf\Home\Desktop\Ozan USB\BlogSitesi\BlogSitesi\bin\WebGrease.dll
+\\psf\Home\Desktop\Ozan USB\BlogSitesi\BlogSitesi\bin\EntityFramework.xml
+\\psf\Home\Desktop\Ozan USB\BlogSitesi\BlogSitesi\bin\Newtonsoft.Json.xml
+\\psf\Home\Desktop\Ozan USB\BlogSitesi\BlogSitesi\bin\System.Net.Http.Formatting.xml
+\\psf\Home\Desktop\Ozan USB\BlogSitesi\BlogSitesi\bin\System.Web.Http.xml
+\\psf\Home\Desktop\Ozan USB\BlogSitesi\BlogSitesi\bin\System.Web.Http.WebHost.xml
+\\psf\Home\Desktop\Ozan USB\BlogSitesi\BlogSitesi\bin\System.Web.Mvc.xml
+\\psf\Home\Desktop\Ozan USB\BlogSitesi\BlogSitesi\bin\System.Web.Razor.xml
+\\psf\Home\Desktop\Ozan USB\BlogSitesi\BlogSitesi\bin\System.Web.WebPages.xml
+\\psf\Home\Desktop\Ozan USB\BlogSitesi\BlogSitesi\bin\System.Web.WebPages.Deployment.xml
+\\psf\Home\Desktop\Ozan USB\BlogSitesi\BlogSitesi\bin\System.Web.WebPages.Razor.xml
+\\psf\Home\Desktop\Ozan USB\BlogSitesi\BlogSitesi\obj\Debug\BlogSitesi.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\Ozan USB\BlogSitesi\BlogSitesi\obj\Debug\BlogSitesi.dll
+\\psf\Home\Desktop\Ozan USB\BlogSitesi\BlogSitesi\obj\Debug\BlogSitesi.pdb
+D:\Edoş Projeler\EdoşProjects\BlogSitesi\BlogSitesi\bin\BlogSitesi.dll.config
+D:\Edoş Projeler\EdoşProjects\BlogSitesi\BlogSitesi\bin\BlogSitesi.dll
+D:\Edoş Projeler\EdoşProjects\BlogSitesi\BlogSitesi\bin\BlogSitesi.pdb
+D:\Edoş Projeler\EdoşProjects\BlogSitesi\BlogSitesi\bin\Antlr3.Runtime.dll
+D:\Edoş Projeler\EdoşProjects\BlogSitesi\BlogSitesi\bin\EntityFramework.dll
+D:\Edoş Projeler\EdoşProjects\BlogSitesi\BlogSitesi\bin\Microsoft.Web.Infrastructure.dll
+D:\Edoş Projeler\EdoşProjects\BlogSitesi\BlogSitesi\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Edoş Projeler\EdoşProjects\BlogSitesi\BlogSitesi\bin\Newtonsoft.Json.dll
+D:\Edoş Projeler\EdoşProjects\BlogSitesi\BlogSitesi\bin\System.Net.Http.Formatting.dll
+D:\Edoş Projeler\EdoşProjects\BlogSitesi\BlogSitesi\bin\System.Web.Http.dll
+D:\Edoş Projeler\EdoşProjects\BlogSitesi\BlogSitesi\bin\System.Web.Http.WebHost.dll
+D:\Edoş Projeler\EdoşProjects\BlogSitesi\BlogSitesi\bin\System.Web.Mvc.dll
+D:\Edoş Projeler\EdoşProjects\BlogSitesi\BlogSitesi\bin\System.Web.Optimization.dll
+D:\Edoş Projeler\EdoşProjects\BlogSitesi\BlogSitesi\bin\System.Web.Providers.dll
+D:\Edoş Projeler\EdoşProjects\BlogSitesi\BlogSitesi\bin\System.Web.Razor.dll
+D:\Edoş Projeler\EdoşProjects\BlogSitesi\BlogSitesi\bin\System.Web.WebPages.Deployment.dll
+D:\Edoş Projeler\EdoşProjects\BlogSitesi\BlogSitesi\bin\System.Web.WebPages.dll
+D:\Edoş Projeler\EdoşProjects\BlogSitesi\BlogSitesi\bin\System.Web.WebPages.Razor.dll
+D:\Edoş Projeler\EdoşProjects\BlogSitesi\BlogSitesi\bin\WebGrease.dll
+D:\Edoş Projeler\EdoşProjects\BlogSitesi\BlogSitesi\bin\EntityFramework.xml
+D:\Edoş Projeler\EdoşProjects\BlogSitesi\BlogSitesi\bin\Newtonsoft.Json.xml
+D:\Edoş Projeler\EdoşProjects\BlogSitesi\BlogSitesi\bin\System.Net.Http.Formatting.xml
+D:\Edoş Projeler\EdoşProjects\BlogSitesi\BlogSitesi\bin\System.Web.Http.xml
+D:\Edoş Projeler\EdoşProjects\BlogSitesi\BlogSitesi\bin\System.Web.Http.WebHost.xml
+D:\Edoş Projeler\EdoşProjects\BlogSitesi\BlogSitesi\bin\System.Web.Mvc.xml
+D:\Edoş Projeler\EdoşProjects\BlogSitesi\BlogSitesi\bin\System.Web.Razor.xml
+D:\Edoş Projeler\EdoşProjects\BlogSitesi\BlogSitesi\bin\System.Web.WebPages.xml
+D:\Edoş Projeler\EdoşProjects\BlogSitesi\BlogSitesi\bin\System.Web.WebPages.Deployment.xml
+D:\Edoş Projeler\EdoşProjects\BlogSitesi\BlogSitesi\bin\System.Web.WebPages.Razor.xml
+D:\Edoş Projeler\EdoşProjects\BlogSitesi\BlogSitesi\obj\Debug\BlogSitesi.csproj.AssemblyReference.cache
+D:\Edoş Projeler\EdoşProjects\BlogSitesi\BlogSitesi\obj\Debug\BlogSitesi.csproj.CoreCompileInputs.cache
+D:\Edoş Projeler\EdoşProjects\BlogSitesi\BlogSitesi\obj\Debug\BlogSitesi.csproj.CopyComplete
+D:\Edoş Projeler\EdoşProjects\BlogSitesi\BlogSitesi\obj\Debug\BlogSitesi.dll
+D:\Edoş Projeler\EdoşProjects\BlogSitesi\BlogSitesi\obj\Debug\BlogSitesi.pdb
